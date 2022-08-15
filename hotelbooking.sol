@@ -24,11 +24,11 @@ contract Hotel {
         currentstate = stateofroom.Occupied; 
     }
    //uint cancellationday;
-    event cancellation(
+    /*event cancellation(
      uint cancellationday,
 
     )
     function cancel() payable public{
     
-    }   
+    }*/   
 }  
